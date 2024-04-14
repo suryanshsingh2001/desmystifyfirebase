@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "877833943255",
+    "project_id": "demystify-firebase",
+    "storage_bucket": "demystify-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877833943255:android:8768fb98eb1956cc33d892",
+        "android_client_info": {
+          "package_name": "com.desmystifyfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgd8UoNC16HJtMZibZednfuYtR2T18-bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
